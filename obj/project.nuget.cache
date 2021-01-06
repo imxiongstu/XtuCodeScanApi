@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aVv35vWr39EFCjJ72jc5lj+C3OB5ZqyEVWATLRxzHSdOoFZpUUXaWzm/KShNvHAEcxkbAy/8ouBnyke0G/UBjg==",
+  "success": true,
+  "projectFilePath": "F:\\VS工程\\ASP.NET Project\\QrCodeScanAPI\\QrCodeScanAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aoyun\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\aoyun\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\aoyun\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\aoyun\\.nuget\\packages\\zxing.net\\0.16.6\\zxing.net.0.16.6.nupkg.sha512",
+    "C:\\Users\\aoyun\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\aoyun\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

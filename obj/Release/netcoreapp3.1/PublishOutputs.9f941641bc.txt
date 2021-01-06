@@ -1,0 +1,15 @@
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\QrCodeScanAPI.exe
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\QrCodeScanAPI.dll
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\QrCodeScanAPI.deps.json
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\QrCodeScanAPI.runtimeconfig.json
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\QrCodeScanAPI.pdb
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\System.Drawing.Common.dll
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\zxing.dll
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\XtuScan.dll
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\XtuScan.pdb
