@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\VS工程\\ASP.NET Project\\XtuScan\\XtuScan.csproj": {}
+    "F:\\VS工程\\ASP.NET Project\\QrCodeScanAPI\\XtuScan\\XtuScan.csproj": {}
   },
   "projects": {
-    "F:\\VS工程\\ASP.NET Project\\XtuScan\\XtuScan.csproj": {
+    "F:\\VS工程\\ASP.NET Project\\QrCodeScanAPI\\XtuScan\\XtuScan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\VS工程\\ASP.NET Project\\XtuScan\\XtuScan.csproj",
+        "projectUniqueName": "F:\\VS工程\\ASP.NET Project\\QrCodeScanAPI\\XtuScan\\XtuScan.csproj",
         "projectName": "XtuScan",
-        "projectPath": "F:\\VS工程\\ASP.NET Project\\XtuScan\\XtuScan.csproj",
+        "projectPath": "F:\\VS工程\\ASP.NET Project\\QrCodeScanAPI\\XtuScan\\XtuScan.csproj",
         "packagesPath": "C:\\Users\\aoyun\\.nuget\\packages\\",
-        "outputPath": "F:\\VS工程\\ASP.NET Project\\XtuScan\\obj\\",
+        "outputPath": "F:\\VS工程\\ASP.NET Project\\QrCodeScanAPI\\XtuScan\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

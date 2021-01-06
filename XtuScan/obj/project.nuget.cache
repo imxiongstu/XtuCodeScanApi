@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f9AG93jSDrTlgsUfZihZokdN7LXmYcE0kClQ+rNxWiJmbUCoV0CUkGTD3WFNWGSsvRRj7f1gg/uz0iz09xEYpA==",
+  "dgSpecHash": "amIs0m7faBdHCiKKVC9MHuUtyIv9m3VS50imvVZj7TnCGQrFKBHZtBAeiTkHq62H9Z2XkQvo2XUM85KMv8pPRA==",
   "success": true,
-  "projectFilePath": "F:\\VS工程\\ASP.NET Project\\XtuScan\\XtuScan.csproj",
+  "projectFilePath": "F:\\VS工程\\ASP.NET Project\\QrCodeScanAPI\\XtuScan\\XtuScan.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aoyun\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\aoyun\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",

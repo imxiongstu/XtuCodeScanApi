@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QrCodeScanAPI", "QrCodeScanAPI.csproj", "{91E08CAF-4C1D-4B2C-9715-44119476843F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XtuScan", "..\XtuScan\XtuScan.csproj", "{1118EF98-1976-4235-8482-E072A0B7C41C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XtuScan", "XtuScan\XtuScan.csproj", "{2D9B544B-17F5-4D3B-A59D-3DDB4E207F8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{91E08CAF-4C1D-4B2C-9715-44119476843F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91E08CAF-4C1D-4B2C-9715-44119476843F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91E08CAF-4C1D-4B2C-9715-44119476843F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1118EF98-1976-4235-8482-E072A0B7C41C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1118EF98-1976-4235-8482-E072A0B7C41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1118EF98-1976-4235-8482-E072A0B7C41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1118EF98-1976-4235-8482-E072A0B7C41C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D9B544B-17F5-4D3B-A59D-3DDB4E207F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D9B544B-17F5-4D3B-A59D-3DDB4E207F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D9B544B-17F5-4D3B-A59D-3DDB4E207F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D9B544B-17F5-4D3B-A59D-3DDB4E207F8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
