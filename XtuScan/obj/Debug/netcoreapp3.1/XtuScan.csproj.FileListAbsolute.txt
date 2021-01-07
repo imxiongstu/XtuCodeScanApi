@@ -1,8 +1,0 @@
-F:\VS工程\ASP.NET Project\XtuScan\obj\Debug\netcoreapp3.1\XtuScan.AssemblyInfoInputs.cache
-F:\VS工程\ASP.NET Project\XtuScan\obj\Debug\netcoreapp3.1\XtuScan.AssemblyInfo.cs
-F:\VS工程\ASP.NET Project\XtuScan\obj\Debug\netcoreapp3.1\XtuScan.csproj.CoreCompileInputs.cache
-F:\VS工程\ASP.NET Project\XtuScan\bin\Debug\netcoreapp3.1\XtuScan.deps.json
-F:\VS工程\ASP.NET Project\XtuScan\bin\Debug\netcoreapp3.1\XtuScan.dll
-F:\VS工程\ASP.NET Project\XtuScan\bin\Debug\netcoreapp3.1\XtuScan.pdb
-F:\VS工程\ASP.NET Project\XtuScan\obj\Debug\netcoreapp3.1\XtuScan.dll
-F:\VS工程\ASP.NET Project\XtuScan\obj\Debug\netcoreapp3.1\XtuScan.pdb
