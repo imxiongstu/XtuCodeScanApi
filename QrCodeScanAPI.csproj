@@ -6,12 +6,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="XtuScan\**" />
+    <Content Remove="XtuScan\**" />
+    <EmbeddedResource Remove="XtuScan\**" />
+    <None Remove="XtuScan\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="System.Drawing.Common" Version="5.0.0" />
     <PackageReference Include="ZXing.Net" Version="0.16.6" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\XtuScan\XtuScan.csproj" />
+    <ProjectReference Include="XtuScan\XtuScan.csproj" />
   </ItemGroup>
 
 

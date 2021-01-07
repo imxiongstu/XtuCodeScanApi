@@ -59,20 +59,6 @@
         "runtime": {
           "lib/netcoreapp3.1/zxing.dll": {}
         }
-      },
-      "XtuScan/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "System.Drawing.Common": "5.0.0",
-          "ZXing.Net": "0.16.6"
-        },
-        "compile": {
-          "bin/placeholder/XtuScan.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/XtuScan.dll": {}
-        }
       }
     }
   },
@@ -240,17 +226,11 @@
         "zxing.net.0.16.6.nupkg.sha512",
         "zxing.net.nuspec"
       ]
-    },
-    "XtuScan/1.0.0": {
-      "type": "project",
-      "path": "XtuScan/XtuScan.csproj",
-      "msbuildProject": "XtuScan/XtuScan.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "System.Drawing.Common >= 5.0.0",
-      "XtuScan >= 1.0.0",
       "ZXing.Net >= 0.16.6"
     ]
   },
@@ -261,11 +241,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\VS工程\\ASP.NET Project\\QrCodeScanAPI\\QrCodeScanAPI.csproj",
-      "projectName": "QrCodeScanAPI",
-      "projectPath": "F:\\VS工程\\ASP.NET Project\\QrCodeScanAPI\\QrCodeScanAPI.csproj",
+      "projectUniqueName": "F:\\VS工程\\ASP.NET Project\\QrCodeScanAPI\\XtuScan\\XtuScan.csproj",
+      "projectName": "XtuScan",
+      "projectPath": "F:\\VS工程\\ASP.NET Project\\QrCodeScanAPI\\XtuScan\\XtuScan.csproj",
       "packagesPath": "C:\\Users\\aoyun\\.nuget\\packages\\",
-      "outputPath": "F:\\VS工程\\ASP.NET Project\\QrCodeScanAPI\\obj\\",
+      "outputPath": "F:\\VS工程\\ASP.NET Project\\QrCodeScanAPI\\XtuScan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -284,11 +264,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "F:\\VS工程\\ASP.NET Project\\QrCodeScanAPI\\XtuScan\\XtuScan.csproj": {
-              "projectPath": "F:\\VS工程\\ASP.NET Project\\QrCodeScanAPI\\XtuScan\\XtuScan.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -324,16 +300,9 @@
           {
             "name": "Microsoft.AspNetCore.App.Ref",
             "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.10, 3.1.10]"
           }
         ],
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
