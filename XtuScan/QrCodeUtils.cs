@@ -170,10 +170,6 @@ namespace XtuScan
             {
                 return null;
             }
-
         }
-
-
-
     }
 }

@@ -20,7 +20,7 @@ namespace QrCodeScanAPI.Controllers
     {
 
         [HttpPost]
-        public string AnalysisQrCode()
+        public string AnalysisCodeImage()
         {
             if (HttpContext.Request.Form.Files.Count <= 0) return "没有选择文件";
 
@@ -29,7 +29,7 @@ namespace QrCodeScanAPI.Controllers
             try
             {
                 Image imagePic = Image.FromStream(imgFile.OpenReadStream());
-                return QrCodeUtils.AnalysisQrCode(imagePic);
+                return QrCodeUtils.AnalysisCodeImage(imagePic);
             }
             catch (Exception)
             {

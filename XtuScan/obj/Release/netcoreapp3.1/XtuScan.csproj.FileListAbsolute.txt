@@ -7,3 +7,12 @@ F:\VS工程\ASP.NET Project\XtuScan\obj\Release\netcoreapp3.1\XtuScan.AssemblyIn
 F:\VS工程\ASP.NET Project\XtuScan\obj\Release\netcoreapp3.1\XtuScan.csproj.CoreCompileInputs.cache
 F:\VS工程\ASP.NET Project\XtuScan\obj\Release\netcoreapp3.1\XtuScan.dll
 F:\VS工程\ASP.NET Project\XtuScan\obj\Release\netcoreapp3.1\XtuScan.pdb
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\XtuScan\bin\Release\netcoreapp3.1\XtuScan.deps.json
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\XtuScan\bin\Release\netcoreapp3.1\XtuScan.dll
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\XtuScan\bin\Release\netcoreapp3.1\XtuScan.pdb
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\XtuScan\obj\Release\netcoreapp3.1\XtuScan.csprojAssemblyReference.cache
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\XtuScan\obj\Release\netcoreapp3.1\XtuScan.AssemblyInfoInputs.cache
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\XtuScan\obj\Release\netcoreapp3.1\XtuScan.AssemblyInfo.cs
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\XtuScan\obj\Release\netcoreapp3.1\XtuScan.csproj.CoreCompileInputs.cache
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\XtuScan\obj\Release\netcoreapp3.1\XtuScan.dll
+F:\VS工程\ASP.NET Project\QrCodeScanAPI\XtuScan\obj\Release\netcoreapp3.1\XtuScan.pdb
